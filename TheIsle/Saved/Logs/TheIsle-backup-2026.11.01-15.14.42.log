@@ -1,0 +1,423 @@
+﻿Log file open, 11/01/26 15:07:37
+LogPakFile: Initializing PakPlatformFile
+LogIoDispatcher: Display: Reading toc: ../../../TheIsle/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc loaded : ../../../TheIsle/Content/Paks/global.utoc, Id=ffffffffffffffff, Order=0, EntryCount=1, SignatureHash=502A7B2EF44ED1889F611652BAA60915B23A1E9E
+LogIoDispatcher: Display: Mounting container '../../../TheIsle/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../TheIsle/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.utoc
+LogIoDispatcher: Display: Toc loaded : ../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.utoc, Id=9c553648bf30fd5d, Order=3, EntryCount=36568, SignatureHash=BE02BEDA8FF21C3DF8997D70348D139BC166B7D7
+LogIoDispatcher: Display: Mounting container '../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.utoc"
+LogFilePackageStore: Mounting container: Id=9c553648bf30fd5d, Order=3, NumPackages=36567
+LogPakFile: Display: Mounted Pak file '../../../TheIsle/Content/Paks/pakchunk2-LinuxServer.pak', mount point: '../../../TheIsle/Content/'
+LogPakFile: Display: Found Pak file ../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.utoc
+LogIoDispatcher: Display: Toc loaded : ../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.utoc, Id=1c21040c837533d0, Order=3, EntryCount=18451, SignatureHash=07BFDD872FBE4999AABBDCD40E798FC0C7C302D0
+LogIoDispatcher: Display: Mounting container '../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.utoc"
+LogFilePackageStore: Mounting container: Id=1c21040c837533d0, Order=3, NumPackages=18450
+LogPakFile: Display: Mounted Pak file '../../../TheIsle/Content/Paks/pakchunk1-LinuxServer.pak', mount point: '../../../TheIsle/Content/'
+LogPakFile: Display: Found Pak file ../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.utoc
+LogIoDispatcher: Display: Toc loaded : ../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.utoc, Id=df31806680c1a9fa, Order=3, EntryCount=9564, SignatureHash=55C9510A886EF6D09E20F5B0BF8709B3CBCF502D
+LogIoDispatcher: Display: Mounting container '../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.utoc"
+LogFilePackageStore: Mounting container: Id=df31806680c1a9fa, Order=3, NumPackages=9563
+LogPakFile: Display: Mounted Pak file '../../../TheIsle/Content/Paks/pakchunk0-LinuxServer.pak', mount point: '../../../'
+LogICUInternationalization: OS requested locale 'en_US_POSIX' is not supported. Using the OS requested language of 'en-US-POSIX' as the locale.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Linux-A3ABDC8E1DA54ABCB0BE46C27D14E0B2
+         Session CrashGUID >====================================================
+LogAudio: Display: Audio Device Manager not initializing due to all audio being disabled. If this is not intentional, please check command line arguments for "-nosound".
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin MassAI
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationLocomotionLibrary
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AnimationWarping
+LogPluginManager: Mounting Engine plugin BlendStack
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin GameplayInsights
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin MotionWarping
+LogPluginManager: Mounting Engine plugin PoseSearch
+LogPluginManager: Mounting Engine plugin RigLogic
+LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
+LogPluginManager: Mounting Engine plugin TweeningUtils
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EngineCameras
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ChaosClothAsset
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosVD
+LogPluginManager: Mounting Engine plugin Chooser
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertSharedSlate
+LogPluginManager: Mounting Engine plugin NamingTokens
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin ColorGrading
+LogPluginManager: Mounting Engine plugin ConsoleVariables
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UMGWidgetPreview
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin AnimToTexture
+LogPluginManager: Mounting Engine plugin MotionTrajectory
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogAssetRegistry: Premade AssetRegistry loaded from '../../../TheIsle/AssetRegistry.bin'
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin CodeView
+LogPluginManager: Mounting Engine plugin CompositeCore
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin EditorDataStorageFeatures
+LogPluginManager: Mounting Engine plugin EditorDataStorage
+LogPluginManager: Mounting Engine plugin FastGeoStreaming
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TargetingSystem
+LogPluginManager: Mounting Engine plugin Gauntlet
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryDataflow
+LogPluginManager: Mounting Engine plugin Iris
+LogPluginManager: Mounting Engine plugin LevelSequenceNavigatorBridge
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin NFORDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin RuntimeTelemetry
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin Cascade
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Fab
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeAssets
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MetaHumanSDK
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin NNEDenoiser
+LogPluginManager: Mounting Engine plugin NNERuntimeORT
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin PCGExternalDataInterop
+LogPluginManager: Mounting Engine plugin PCGGeometryScriptInterop
+LogPluginManager: Mounting Engine plugin PCG
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AnimationBudgetAllocator
+LogPluginManager: Mounting Engine plugin ApexDestruction
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ComputeFramework
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MassGameplay
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MsQuic
+LogPluginManager: Mounting Engine plugin NavCorridor
+LogPluginManager: Mounting Engine plugin AESGCMHandlerComponent
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin PropertyBindingUtils
+LogPluginManager: Mounting Engine plugin ReplicationGraph
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RigVM
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SmartObjects
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SoundUtilities
+LogPluginManager: Mounting Engine plugin Spatialization
+LogPluginManager: Mounting Engine plugin StateTree
+LogPluginManager: Mounting Engine plugin SteamController
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebBrowserWidget
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WorldConditions
+LogPluginManager: Mounting Engine plugin XRBase
+LogPluginManager: Mounting Engine plugin ZoneGraphAnnotations
+LogPluginManager: Mounting Engine plugin ZoneGraph
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin CameraCalibrationCore
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin WorldMetrics
+LogPluginManager: Mounting Project plugin AnimModTool
+LogPluginManager: Mounting Project plugin DLSSMoviePipelineSupport
+LogPluginManager: Mounting Project plugin DLSS
+LogPluginManager: Mounting Project plugin ImpostorBaker
+LogPluginManager: Mounting Project plugin MeshPack
+LogPluginManager: Mounting Project plugin NIS
+LogPluginManager: Mounting Project plugin OnlineSubsystemRedpointEOS
+LogPluginManager: Mounting Project plugin TIPersistenceSqlCipher
+LogPluginManager: Mounting Project plugin Tether
+LogNFORDenoise: NFORDenoise function starting up
+LogRedpointEOSPlatformDesktop: Verbose: EOS SDK Dynamic Load - Starting dynamic load of EOS SDK...
+LogRedpointEOSPlatformDesktop: Verbose: EOS SDK Dynamic Load - DLL found at: /home/container/TheIsle/Binaries/Linux/libEOSSDK-Linux-Shipping.so
+LogRedpointEOSPlatformDesktop: Verbose: EOS SDK Dynamic Load - Successfully loaded DLL at: /home/container/TheIsle/Binaries/Linux/libEOSSDK-Linux-Shipping.so
+LogRedpointEOSPlatform: Verbose: Added runtime integration: Epic
+LogModuleManager: Warning: ModuleManager: Module 'RedpointEOSPlatformIntegrationGOG' not found - its StaticallyLinkedModuleInitializers function is null.
+LogModuleManager: Warning: ModuleManager: Module 'RedpointEOSPlatformIntegrationMeta' not found - its StaticallyLinkedModuleInitializers function is null.
+LogRedpointEOSCore: Verbose: Built against EOS SDK version: 1.17.0
+LogRedpointEOSCore: Verbose: Loaded EOS SDK version: 1.17.0-39599718
+LogRedpointEOSCore: Verbose: EOS SDK is being initialized...
+LogRedpointEOSCore: Verbose: EOS SDK was initialized successfully.
+LogRedpointEOSPlatformDesktop: Verbose: Using the following path as the cache directory: /home/container/TheIsle/Saved/PersistentDownloadDir/EOSCache
+LogRedpointEOSCore: Verbose: Creating EOS SDK platform instance: InstanceName=DefaultInstance, bIsServer=true
+LogRedpointEOSCore: Verbose: EOS platform 0x74c59c544cc0 has been created.
+LogRedpointEOSIdentity: Verbose: DedicatedServer: Performed Login on dedicated server.
+LogRedpointEOSIdentity: Verbose: Local user 0 is now signed in as (dedicated server)
+LogOnlineSubsystemRedpointEOS: Verbose: Broadcasting 'OnLoginStatusChanged' event for local user 0.
+LogSteamShared: Warning: Steam Dedicated Server API failed to initialize.
+LogOnlineSubsystemRedpointEOS: Verbose: Broadcasting 'OnLoginChanged' event for local user 0.
+LogOnlineSubsystemRedpointEOS: Verbose: Broadcasting 'OnLoginComplete' event for local user 0.
+LogSteamShared: Warning: Steam Dedicated Server API failed to initialize.
+LogDLSSBlueprint: Loaded DLSS-SR plugin version 4.0.2-NGX310.2.1.0
+LogDLSSBlueprint: DLSS is not supported on this platform at build time. The DLSS Blueprint library however is supported and stubbed out to ignore any calls to enable DLSS and will always return UDLSSSupport::NotSupportedByPlatformAtBuildTime, regardless of the underlying hardware. This can be used to e.g. to turn off DLSS related UI elements.
+[2026.11.01-15.07.37:076][  0]LogConsoleManager: Warning: Setting the console variable 'r.RenderTargetPoolMin' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '600'
+[2026.11.01-15.07.37:076][  0]LogHAL: Display: Platform has ~ 124 GB [132514836480 / 137438953472 / 124], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.11.01-15.07.37:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Linux]
+[2026.11.01-15.07.37:076][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.01-15.07.37:076][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[AsyncTraceDelegateHitchThresholdMS:-1 -> 7.0]]
+[2026.11.01-15.07.37:076][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[UI.SlateSDFText.RasterizationMode:Bitmap -> Msdf]]
+[2026.11.01-15.07.37:076][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[UI.SlateSDFText.ResolutionLevel:2 -> 2]]
+[2026.11.01-15.07.37:076][  0]LogConsoleManager: Warning: Setting the console variable 'r.RenderTargetPoolMin' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '600'
+[2026.11.01-15.07.37:076][  0]LogCore: Benchmarking clocks:
+[2026.11.01-15.07.37:076][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 47708160 (47708K, 48M) calls per second without zero deltas.
+[2026.11.01-15.07.37:076][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 47690125 (47690K, 48M) calls per second without zero deltas.
+[2026.11.01-15.07.37:076][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 340574743 (340575K, 341M) calls per second with 99.999703% zero deltas.
+[2026.11.01-15.07.37:076][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2026.11.01-15.07.37:077][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2026.11.01-15.07.37:078][  0]LogSlate: Warning: FStarshipCoreStyle assets not detected, skipping FStarshipCoreStyle initialization
+[2026.11.01-15.07.37:078][  0]LogSlate: Warning: FUMGCoreStyle assets not detected, skipping FUMGCoreStyle initialization
+[2026.11.01-15.07.37:090][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2026.11.01-15.07.37:096][  0]LogTextLocalizationManager: No specific localization for 'en-US-POSIX' exists, so 'en' will be used for the language.
+[2026.11.01-15.07.37:097][  0]LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+[2026.11.01-15.07.37:209][  0]LogFilePackageStore: Updated: NewPackages=64580, OldPackages=0, TotalPackages=64580
+[2026.11.01-15.07.37:210][  0]LogDeviceProfileManager: Active device profile: [0x74c5c0159de0][0x74c56a09b6e0 66] LinuxServer
+[2026.11.01-15.07.37:229][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.11.01-15.07.37:231][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.11.01-15.07.37:231][  0]LogRedpointEOSFrameworkExtra: Warning: The gameplay tag 'Item.Equipped.None' was not found. This tag is set on ability system components when no item is currently selected in a backpack component, instead of the ItemTag of the selected item.
+[2026.11.01-15.07.37:231][  0]LogRedpointEOSFrameworkExtra: Warning: The gameplay tag 'Ability.CancelOnItemChange' was not found. This tag can be set on abilities to ensure they are cancelled when a player changes their current item selection in the backpack component.
+[2026.11.01-15.07.37:236][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.11.01-15.07.37:268][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Slider'. Using FSliderStyle defaults instead.
+[2026.11.01-15.07.37:268][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'WhiteBrush'.'
+[2026.11.01-15.07.37:269][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+[2026.11.01-15.07.37:269][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+[2026.11.01-15.07.37:276][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.11.01-15.07.37:276][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+[2026.11.01-15.07.37:287][  0]LogPackageLocalizationCache: Processed 92 localized package path(s) for 1 prioritized culture(s) in 0.000091 seconds
+[2026.11.01-15.07.37:287][  0]LogGauntlet: Display: Gauntlet Initialized
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   DirectML:  no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   RHI D3D12: no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   D3D12:     no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   NPU:       no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT: Interface availability:
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   GPU: no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   RDG: no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT:   NPU: no
+[2026.11.01-15.07.37:289][  0]LogNNERuntimeORT: NNERuntimeORTDml is not available!
+[2026.11.01-15.07.37:298][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SpinBox'. Using FSpinBoxStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Button'. Using FButtonStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ComboButton'. Using FComboButtonStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'NoBrush'.'
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'NumericEntrySpinBox'. Using FSpinBoxStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'NormalEditableTextBox'. Using FEditableTextBoxStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'SpinBox'. Using FSpinBoxStyle defaults instead.
+[2026.11.01-15.07.37:302][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'DarkEditableTextBox'. Using FEditableTextBoxStyle defaults instead.
+[2026.11.01-15.07.37:309][  0]LogUObjectArray: 43599 objects as part of root set at end of initial load.
+[2026.11.01-15.07.37:309][  0]LogUObjectArray: 19 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2026.11.01-15.07.37:309][  0]LogUObjectArray: CloseDisregardForGC: 43599/43599 objects in disregard for GC pool
+[2026.11.01-15.07.37:310][  0]LogEngine: Initializing Engine...
+[2026.11.01-15.07.37:313][  0]LogAssetManager: Display: Ignoring PrimaryAssetType PrimaryAssetLabel - Conflicts with UMGCalendarAssetStyle_C - Asset: CalendarDefaultStyle
+[2026.11.01-15.07.37:317][  0]LogAssetManager: Display: Ignoring PrimaryAssetType Characters - Conflicts with Austroraptor - Asset: BP_Austroraptor
+[2026.11.01-15.07.37:319][  0]LogNetVersion: Set ProjectVersion to 0.21.784. Version Checksum will be recalculated on next use.
+[2026.11.01-15.07.37:320][  0]LogNiagara: UAV Float16 is not supported, compressed GPU emitters will be disabled.
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineAchievementsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineAvatarSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineChatSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineEntitlementsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineEventsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineExternalUISubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineGameActivitySubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineGameItemStatsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineGroupsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineIdentitySubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineLeaderboardsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineLobbySubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:320][  0]LogOnlineBlueprint: Verbose: OnlineMessageSanitizerSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:322][  0]LogSteamShared: Warning: Steam Dedicated Server API failed to initialize.
+[2026.11.01-15.07.37:323][  0]LogSteamShared: Warning: Steam Dedicated Server API failed to initialize.
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineMessageSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlinePresenceSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlinePurchaseSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineSharedCloudSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineSharingSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineStatsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineStoreV2Subsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineTimeSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineTitleFileSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineTournamentSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineTurnBasedSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineUserCloudSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineUserSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineVoiceAdminSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineVoiceSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineFriendsSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlinePartySubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogOnlineBlueprint: Verbose: OnlineSessionSubsystem subsystem initialized in context Context_0
+[2026.11.01-15.07.37:323][  0]LogAbilitySystem: Display: Processing InitializeRuntimeObjectLibrary.
+[2026.11.01-15.07.37:329][  0]LogNIS: StartupModule Enter
+[2026.11.01-15.07.37:329][  0]LogNIS: StartupModule Leave
+[2026.11.01-15.07.37:329][  0]LogGlobalStatus: Browse Started Browse: "/Game/TheIsle/Maps/TitleMap?Name=Player"
+[2026.11.01-15.07.37:333][  0]LogLoad: LoadMap: /Game/TheIsle/Maps/TitleMap?Name=Player
+[2026.11.01-15.07.37:333][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2026.11.01-15.07.37:333][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.11.01-15.07.37:335][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.11.01-15.07.37:713][  0]LogLoad: Game class is 'BP_TitleGameMode_C'
+[2026.11.01-15.07.37:713][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.11.01-15.07.37:714][  0]LogIrisDirtyTracker: FDirtyNetObjectTracker::Init[0]: CurrentMaxSize: 65536
+[2026.11.01-15.07.37:715][  0]LogPushModel: PushModel HandleCreation is now disabled
+[2026.11.01-15.07.37:716][  0]LogWorld: Bringing World /Game/TheIsle/Maps/TitleMap.TitleMap up for play (max tick rate 30) at 2026.11.01-15.07.37
+[2026.11.01-15.07.37:716][  0]LogWorld: Bringing up level for play took: 0.000163
+[2026.11.01-15.07.37:935][  0]LogLoad: Took 0.601637 seconds to LoadMap(/Game/TheIsle/Maps/TitleMap)
+[2026.11.01-15.07.37:935][  0]LogGlobalStatus: LoadMap Load map complete /Game/TheIsle/Maps/TitleMap
+[2026.11.01-15.07.37:953][  0]LogLoad: (Engine Initialization) Total time: 1.02 seconds
+[2026.11.01-15.07.37:987][  0]LogGlobalStatus: Browse Started Browse: "/Game/TheIsle/Maps/Game/Gateway/Gateway?Name=Player?listen"
+[2026.11.01-15.07.37:987][  0]LogLoad: LoadMap: /Game/TheIsle/Maps/Game/Gateway/Gateway?Name=Player?listen
+[2026.11.01-15.07.37:987][  0]LogWorld: BeginTearingDown for /Game/TheIsle/Maps/TitleMap
+[2026.11.01-15.07.37:988][  0]LogExit: Name:GameNetDriver Def:GameNetDriver RedpointEOSNetDriver_2147482195 shut down
+[2026.11.01-15.07.37:988][  0]LogWorld: UWorld::CleanupWorld for TitleMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.01-15.07.38:007][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.11.01-15.07.40:094][  0]LogLoad: Game class is 'BP_SurvivalGameMode_C'
+[2026.11.01-15.07.40:095][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.11.01-15.07.40:096][  0]LogIrisDirtyTracker: FDirtyNetObjectTracker::Init[0]: CurrentMaxSize: 65536
+[2026.11.01-15.07.40:097][  0]LogPushModel: PushModel HandleCreation is now disabled
+[2026.11.01-15.07.40:097][  0]LogChaos: RegisterAsyncPhysicsTickActor TIWorldSettings @ 0x74c4b62e1ba0
+[2026.11.01-15.07.40:689][  0]LogWorld: Bringing World /Game/TheIsle/Maps/Game/Gateway/Gateway.Gateway up for play (max tick rate 30) at 2026.11.01-15.07.40
+[2026.11.01-15.07.40:690][  0]LogWorld: Bringing up level for play took: 0.592817
+[2026.11.01-15.07.40:690][  0]LogNavigationDataBuild: RecastNavMesh_UAID_A85E451539F62A1202-Characters: AgentMaxStepHeight (40.000000) for resolution Low is not high enough in steep slopes (AgentMaxSlope is 70.000000). Use AgentMaxStepHeight bigger than 84.000000 or a smaller AgentMaxSlope to avoid undesirable navmesh holes in steep slopes. This can also be avoided by using smaller CellSize and CellHeight.
+[2026.11.01-15.07.40:690][  0]LogNavigationDataBuild: RecastNavMesh_UAID_A85E451539F62A1202-Characters: AgentMaxStepHeight (40.000000) for resolution Default is not high enough in steep slopes (AgentMaxSlope is 70.000000). Use AgentMaxStepHeight bigger than 170.000000 or a smaller AgentMaxSlope to avoid undesirable navmesh holes in steep slopes. This can also be avoided by using smaller CellSize and CellHeight.
+[2026.11.01-15.07.40:690][  0]LogNavigationDataBuild: RecastNavMesh_UAID_A85E451539F62A1202-Characters: AgentMaxStepHeight (40.000000) for resolution High is not high enough in steep slopes (AgentMaxSlope is 70.000000). Use AgentMaxStepHeight bigger than 165.000000 or a smaller AgentMaxSlope to avoid undesirable navmesh holes in steep slopes. This can also be avoided by using smaller CellSize and CellHeight.
+[2026.11.01-15.07.40:710][  0]r.LumenScene.PropagateGlobalLightingChange = "0"
+[2026.11.01-15.07.40:711][  0]r.SkyLight.RealTimeReflectionCapture.TimeSlice.SkyCloudCubeFacePerFrame = "1"
+[2026.11.01-15.07.40:711][  0]r.VolumetricCloud.ApplyFogLate = "1"
+[2026.11.01-15.07.40:711][  0]r.VolumetricCloud.DistanceToSampleMaxCount = "2"
+[2026.11.01-15.07.40:711][  0]r.VolumetricCloud.ReflectionRaySampleMaxCount = "200"
+[2026.11.01-15.07.40:711][  0]r.VolumetricCloud.SampleMinCount = "23"
+[2026.11.01-15.07.40:711][  0]r.VolumetricRenderTarget.Mode = "1"
+[2026.11.01-15.07.40:711][  0]r.LightFunctionAtlas.SlotResolution = "512"
+[2026.11.01-15.07.40:711][  0]r.LightFunctionQuality = "2"
+[2026.11.01-15.07.40:711][  0]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2026.11.01-15.07.40:711][  0]r.OIT.SortedPixels.PassType = "2"
+[2026.11.01-15.07.40:711][  0]r.SkyAtmosphere.EditorNotifications = "0"
+[2026.11.01-15.07.40:711][  0]fx.Niagara.Emitter.ComputePSOPrecacheMode = "0"
+[2026.11.01-15.07.40:711][  0]LogBlueprintUserMessages: Warning: Failed to find console variable 'r.RayTracing.Shadows.EnableTwoSidedGeometry'.
+[2026.11.01-15.07.40:711][  0]LogBlueprintUserMessages: Warning: Failed to find console variable 'r.Lumen.HardwareRayTracing.SkipBackFaceHitDistance'.
+[2026.11.01-15.07.40:711][  0]r.Lumen.ScreenProbeGather.ShortRangeAO.MaxMultibounceAlbedo = "1"
+[2026.11.01-15.07.40:711][  0]r.Lumen.ScreenProbeGather.ShortRangeAO.ScreenSpace.SlopeCompareToleranceScale = "0"
+[2026.11.01-15.07.40:721][  0]LogLoad: Took 2.733685 seconds to LoadMap(/Game/TheIsle/Maps/Game/Gateway/Gateway)
+[2026.11.01-15.07.40:721][  0]LogGlobalStatus: LoadMap Load map complete /Game/TheIsle/Maps/Game/Gateway/Gateway
+[2026.11.01-15.11.16:324][458]LogNetVersion: TheIsle 0.21.784, NetCL: 0, EngineNetworkVersion: 42, GameNetworkVersion: 0 (Checksum: 1531937975)
+[2026.11.01-15.11.34:021][988]LogTheIsleJoinData: AddSpawnRequest for 76561198170657885: class= default=1 loadSaved=1 loadOnly=1 keepLocation=0 zone= location=X=0.000 Y=0.000 Z=0.000
+[2026.11.01-15.11.34:058][989]LogTheIsleJoinData: [2026.11.01-15.11.34] MANIAexe [76561198170657885] Joined The Server. Save file found Dino: BP_Tyrannosaurus_C, Gender: Male, Growth: 0.252206
+[2026.11.01-15.11.55:121][620]LogTheIsleChatData: [2026.11.01-15.11.55] [Spatial] [GROUP-344083184] MANIAexe [76561198170657885]: wtf
+[2026.11.01-15.12.23:901][482]LogTheIsleChatData: [2026.11.01-15.12.23] [Spatial] [GROUP-344083184] MANIAexe [76561198170657885]: \
+[2026.11.01-15.14.41:260][597]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.01-15.14.41:261][597]LogWorld: BeginTearingDown for /Game/TheIsle/Maps/Game/Gateway/Gateway
+[2026.11.01-15.14.41:261][597]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.11.01-15.14.41:275][597]LogExit: Name:GameNetDriver Def:GameNetDriver RedpointEOSNetDriver_2147482010 shut down
+[2026.11.01-15.14.41:731][597]LogWorld: UWorld::CleanupWorld for Gateway, bSessionEnded=true, bCleanupResources=true
+[2026.11.01-15.14.41:745][597]LogExit: Preparing to exit.
+[2026.11.01-15.14.41:883][597]LogMatchmaking: Verbose: ADedicatedServerMatchmakingBeaconHostActor has been destroyed.
+[2026.11.01-15.14.41:949][597]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.01-15.14.41:952][597]LogExit: Game engine shut down
+[2026.11.01-15.14.42:124][597]LogExit: Object subsystem successfully closed.
+[2026.11.01-15.14.42:125][597]LogNIS: ShutdownModule Enter
+[2026.11.01-15.14.42:125][597]LogNIS: ShutdownModule Leave
+[2026.11.01-15.14.42:126][597]LogGauntlet: Gauntlet Shutdown
+[2026.11.01-15.14.42:126][597]LogRedpointEOSPlatform: Verbose: Removed runtime integration: Epic
+[2026.11.01-15.14.42:126][597]LogRedpointEOSPlatformDesktop: Verbose: EOS SDK Dynamic Unload - Starting dynamic unload of EOS SDK...
+[2026.11.01-15.14.42:126][597]LogRedpointEOSCore: Verbose: EOS SDK is being shutdown...
+[2026.11.01-15.14.42:184][597]LogRedpointEOSCore: Verbose: EOS SDK has been shutdown.
+[2026.11.01-15.14.42:185][597]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.01-15.14.42:185][597]LogPakFile: Destroying PakPlatformFile
+[2026.11.01-15.14.42:187][597]LogExit: Exiting.
+[2026.11.01-15.14.42:187][597]LogCore: FUnixPlatformMisc::RequestExit(bForce=false, ReturnCode=130)
+[2026.11.01-15.14.42:197][597]Log file closed, 11/01/26 15:14:42

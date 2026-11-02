@@ -1,0 +1,60 @@
+
+
+[2026-11-01 14:09:28] Client version: 1792617903
+[2026-11-01 14:09:28] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:09:29] Disabling compatibility layer.
+
+
+[2026-11-01 14:09:37] Client version: 1792617903
+[2026-11-01 14:09:37] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:09:37] Disabling compatibility layer.
+
+
+[2026-11-01 14:09:57] Client version: 1792617903
+[2026-11-01 14:09:57] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:09:57] Disabling compatibility layer.
+
+
+[2026-11-01 14:14:46] Client version: 1792617903
+[2026-11-01 14:14:46] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:14:46] Disabling compatibility layer.
+
+
+[2026-11-01 14:43:41] Client version: 1792617903
+[2026-11-01 14:43:41] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:43:41] Disabling compatibility layer.
+
+
+[2026-11-01 14:44:11] Client version: 1792617903
+[2026-11-01 14:44:11] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:44:11] Disabling compatibility layer.
+
+
+[2026-11-01 14:45:38] Client version: 1792617903
+[2026-11-01 14:45:38] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:45:38] Disabling compatibility layer.
+
+
+[2026-11-01 14:47:16] Client version: 1792617903
+[2026-11-01 14:47:16] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:47:17] Disabling compatibility layer.
+
+
+[2026-11-01 14:47:24] Client version: 1792617903
+[2026-11-01 14:47:24] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:47:24] Disabling compatibility layer.
+
+
+[2026-11-01 14:47:30] Client version: 1792617903
+[2026-11-01 14:47:30] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 14:47:30] Disabling compatibility layer.
+
+
+[2026-11-01 15:07:33] Client version: 1792617903
+[2026-11-01 15:07:33] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 15:07:33] Disabling compatibility layer.
+
+
+[2026-11-01 15:14:49] Client version: 1792617903
+[2026-11-01 15:14:49] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-11-01 15:14:49] Disabling compatibility layer.

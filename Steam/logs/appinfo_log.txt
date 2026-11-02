@@ -1,0 +1,286 @@
+
+
+[2026-11-01 14:09:28] Client version: 1792617903
+[2026-11-01 14:09:28] ThreadedReadFromDisk: loading appinfo cache from: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:28] ThreadedReadFromDisk: failed to open file: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:28] CAppInfoCacheReadFromDiskThread took 0 milliseconds to initialize
+[2026-11-01 14:09:30] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:09:30] Change number 0->40479565, apps: 0/0, packages: 0/0
+[2026-11-01 14:09:30] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:09:31] Downloaded 1 apps via HTTP, 15 KB (3 KB compressed)
+[2026-11-01 14:09:31] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 17 KB)
+[2026-11-01 14:09:31] UpdatesJob: finished OK, apps updated 1 (15 KB), packages updated 1 (17 KB)
+[2026-11-01 14:09:31] Requesting 736 apps, 0 packages (meta data, 1024 prev attempts, expected 34 KB)
+[2026-11-01 14:09:31] Requested 90 app access tokens, 23 received, 67 denied
+[2026-11-01 14:09:31] Updated SHAs with 23 new access tokens
+[2026-11-01 14:09:35] Downloaded 662 apps via HTTP, 4965 KB (1342 KB compressed)
+[2026-11-01 14:09:35] Requesting 82 apps, 0 packages (full data, 1024 prev attempts, expected 66 KB)
+[2026-11-01 14:09:35] UpdatesJob: finished OK, apps updated 744 (5079 KB), packages updated 0 (0 KB)
+[2026-11-01 14:09:35] UpdatesJob: apps still needs updates, run again
+[2026-11-01 14:09:35] Requesting 51 apps, 0 packages (meta data, 1024 prev attempts, expected 2 KB)
+[2026-11-01 14:09:35] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:09:35] Requested 51 app access tokens, 0 received, 51 denied
+[2026-11-01 14:09:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:09:35] UpdatesJob: apps still needs updates, run again
+[2026-11-01 14:09:35] ThreadedWriteToDisk: writing appinfo cache to: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:35] App cache write succeeded /mnt/server/Steam/appcache/appinfo.vdf (737 apps, 2469 KB) in 11 ms
+
+
+[2026-11-01 14:09:37] Client version: 1792617903
+[2026-11-01 14:09:37] ThreadedReadFromDisk: loading appinfo cache from: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:37] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:09:37] ThreadedReadFromDisk: apps updated: 737
+[2026-11-01 14:09:37] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:09:37] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:09:38] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:09:38] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:09:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:09:38] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:09:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:09:38] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2026-11-01 14:09:38] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2026-11-01 14:09:43] ThreadedWriteToDisk: writing appinfo cache to: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:45] App cache write succeeded /mnt/server/Steam/appcache/appinfo.vdf (738 apps, 2470 KB) in 2035 ms
+
+
+[2026-11-01 14:09:57] Client version: 1792617903
+[2026-11-01 14:09:57] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:09:57] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:09:57] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:09:57] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:09:58] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:09:58] Change number 40479565->40479567, apps: 0/2, packages: 0/0
+[2026-11-01 14:09:58] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:09:58] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:09:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:09:58] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:09:58] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:09:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:10:03] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:10:03] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:10:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:10:04] Client version: no bootstrapper found
+[2026-11-01 14:10:04] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:10:04] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:10:04] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:10:04] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+
+
+[2026-11-01 14:14:46] Client version: 1792617903
+[2026-11-01 14:14:46] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:14:46] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:14:46] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:14:46] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:14:47] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:14:47] Packages changed: force all
+[2026-11-01 14:14:47] Change number 40479567->40479672, apps: 0/95, packages: 0/0
+[2026-11-01 14:14:47] Requesting 68 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:14:48] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:14:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:14:48] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:14:48] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:14:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:14:48] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:14:48] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:14:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:14:49] Client version: no bootstrapper found
+[2026-11-01 14:14:49] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:14:49] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:14:49] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:14:49] CAppInfoCacheReadFromDiskThread took 13 milliseconds to initialize
+
+
+[2026-11-01 14:43:41] Client version: 1792617903
+[2026-11-01 14:43:41] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:43:41] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:43:41] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:43:41] CAppInfoCacheReadFromDiskThread took 15 milliseconds to initialize
+[2026-11-01 14:43:42] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:43:43] Packages changed: force all
+[2026-11-01 14:43:43] Change number 40479672->40480177, apps: 0/468, packages: 0/0
+[2026-11-01 14:43:43] Requesting 68 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:43:43] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:43:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:43:43] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:43:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:43:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:43:43] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:43:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:43:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:43:45] Client version: no bootstrapper found
+[2026-11-01 14:43:45] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:43:45] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:43:45] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:43:45] CAppInfoCacheReadFromDiskThread took 15 milliseconds to initialize
+
+
+[2026-11-01 14:44:11] Client version: 1792617903
+[2026-11-01 14:44:11] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:44:11] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:44:11] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:44:11] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:44:12] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:44:12] Change number 40480177->40480191, apps: 0/11, packages: 0/4
+[2026-11-01 14:44:12] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:44:13] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:44:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:44:13] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:44:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:44:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:44:13] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:44:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:44:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:44:14] Client version: no bootstrapper found
+[2026-11-01 14:44:14] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:44:14] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:44:14] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:44:14] CAppInfoCacheReadFromDiskThread took 13 milliseconds to initialize
+
+
+[2026-11-01 14:45:38] Client version: 1792617903
+[2026-11-01 14:45:38] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:45:38] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:45:38] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:45:38] CAppInfoCacheReadFromDiskThread took 15 milliseconds to initialize
+[2026-11-01 14:45:39] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:45:39] Change number 40480191->40480210, apps: 0/15, packages: 0/2
+[2026-11-01 14:45:39] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:45:39] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:45:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:45:39] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:45:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:45:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:45:39] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:45:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:45:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:45:41] Client version: no bootstrapper found
+[2026-11-01 14:45:41] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:45:41] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:45:41] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:45:41] CAppInfoCacheReadFromDiskThread took 15 milliseconds to initialize
+
+
+[2026-11-01 14:47:16] Client version: 1792617903
+[2026-11-01 14:47:16] ThreadedReadFromDisk: loading appinfo cache from: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:47:16] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:47:16] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:47:16] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:47:18] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:47:18] Packages changed: force all
+[2026-11-01 14:47:18] Change number 40480210->40480243, apps: 0/30, packages: 0/0
+[2026-11-01 14:47:18] Requesting 68 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:47:18] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:47:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:47:18] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:47:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:47:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:47:24] Client version: 1792617903
+[2026-11-01 14:47:24] ThreadedReadFromDisk: loading appinfo cache from: /mnt/server/Steam/appcache/appinfo.vdf
+[2026-11-01 14:47:24] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:47:24] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:47:24] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+[2026-11-01 14:47:25] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:47:25] Change number 40480243->40480245, apps: 0/1, packages: 0/0
+[2026-11-01 14:47:25] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:47:25] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:47:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:47:25] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:47:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:47:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:47:30] Client version: 1792617903
+[2026-11-01 14:47:30] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:47:30] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:47:30] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:47:30] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 14:47:31] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 14:47:31] Change number 40480245->40480249, apps: 0/1, packages: 0/3
+[2026-11-01 14:47:31] Requesting 68 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 14:47:31] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 14:47:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:47:31] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 14:47:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:47:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 14:47:33] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 14:47:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 14:47:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2026-11-01 14:47:35] Client version: no bootstrapper found
+[2026-11-01 14:47:35] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 14:47:35] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 14:47:35] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 14:47:35] CAppInfoCacheReadFromDiskThread took 13 milliseconds to initialize
+
+
+[2026-11-01 15:07:33] Client version: 1792617903
+[2026-11-01 15:07:33] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:07:33] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 15:07:33] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 15:07:33] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 15:07:34] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 15:07:34] Packages changed: force all
+[2026-11-01 15:07:34] Apps changed: 604540=40480669,836850=40480413,
+[2026-11-01 15:07:34] Change number 40480249->40480689, apps: 2/459, packages: 0/0
+[2026-11-01 15:07:34] Requesting 70 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 15:07:35] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 15:07:35] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2026-11-01 15:07:35] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2026-11-01 15:07:35] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 15:07:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 15:07:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 15:07:35] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 15:07:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 15:07:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 15:07:36] ThreadedWriteToDisk: writing appinfo cache to: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:07:36] App cache write succeeded /home/container/Steam/appcache/appinfo.vdf (738 apps, 2470 KB) in 11 ms
+
+
+[2026-11-01 15:07:37] Client version: no bootstrapper found
+[2026-11-01 15:07:37] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:07:37] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 15:07:37] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 15:07:37] CAppInfoCacheReadFromDiskThread took 13 milliseconds to initialize
+
+
+[2026-11-01 15:14:49] Client version: 1792617903
+[2026-11-01 15:14:49] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:14:49] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 15:14:49] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 15:14:49] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize
+[2026-11-01 15:14:50] RequestAppInfoUpdate: AppIDs 7
+[2026-11-01 15:14:50] Packages changed: force all
+[2026-11-01 15:14:50] Apps changed: 1617130=40480835,1118200=40480781,611300=40480725,
+[2026-11-01 15:14:50] Change number 40480689->40480849, apps: 3/228, packages: 0/0
+[2026-11-01 15:14:50] Requesting 70 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2026-11-01 15:14:50] Requested 67 app access tokens, 0 received, 67 denied
+[2026-11-01 15:14:50] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2026-11-01 15:14:50] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2026-11-01 15:14:50] RequestAppInfoUpdate: AppIDs 1007
+[2026-11-01 15:14:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 15:14:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 15:14:51] RequestAppInfoUpdate: AppIDs 412680
+[2026-11-01 15:14:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2026-11-01 15:14:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2026-11-01 15:14:51] ThreadedWriteToDisk: writing appinfo cache to: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:14:51] App cache write succeeded /home/container/Steam/appcache/appinfo.vdf (738 apps, 2470 KB) in 12 ms
+
+
+[2026-11-01 15:14:52] Client version: no bootstrapper found
+[2026-11-01 15:14:52] ThreadedReadFromDisk: loading appinfo cache from: /home/container/Steam/appcache/appinfo.vdf
+[2026-11-01 15:14:52] ThreadedReadFromDisk: header version: 0x7564429
+[2026-11-01 15:14:52] ThreadedReadFromDisk: apps updated: 738
+[2026-11-01 15:14:52] CAppInfoCacheReadFromDiskThread took 14 milliseconds to initialize

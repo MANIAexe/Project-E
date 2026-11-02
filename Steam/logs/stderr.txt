@@ -1,0 +1,3 @@
+11/01 15:14:48 minidumps folder is set to /tmp/dumps
+11/01 15:14:48 Init: Installing breakpad exception handler for appid(steam)/version(1792617903)/tid(47)
+flock /sys/devices/virtual/dmi/id/sys_vendor LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/product_name LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/sys_vendor LOCK_SH failed. errno = 13flock /sys/devices/virtual/dmi/id/product_name LOCK_SH failed. errno = 13

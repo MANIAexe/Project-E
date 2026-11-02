@@ -1,0 +1,251 @@
+
+
+[2026-11-01 14:09:30] Client version: 1792617903
+[2026-11-01 14:09:30] Loaded 0 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-11-01 14:09:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:09:35] AppID 412680 beta changed: evrima
+[2026-11-01 14:09:35] Failed installing AppID 412680 (Missing configuration)
+
+
+[2026-11-01 14:09:37] Client version: 1792617903
+[2026-11-01 14:09:37] Loaded 0 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-11-01 14:09:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:09:38] AppID 412680 state changed : Update Required,
+[2026-11-01 14:09:38] AppID 412680 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:09:38] AppID 412680 state changed : Update Required,Update Queued,
+[2026-11-01 14:09:38] AppID 412680 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:09:38] AppID 412680 state changed : Update Required,Update Queued,Update Running,
+[2026-11-01 14:09:38] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:38] AppID 412680 App update changed : Running Update,Reconfiguring,
+[2026-11-01 14:09:39] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 2 / Launcher 3)
+[2026-11-01 14:09:39] Moving to source priority class '7'
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache8-iad1.steamcontent.com (cache8-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache2-iad1.steamcontent.com (cache2-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache11-iad1.steamcontent.com (cache11-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache22-iad1.steamcontent.com (cache22-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache21-iad1.steamcontent.com (cache21-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache7-iad1.steamcontent.com (cache7-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache10-iad1.steamcontent.com (cache10-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache9-iad1.steamcontent.com (cache9-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache1-iad1.steamcontent.com (cache1-iad1.steamcontent.com)
+[2026-11-01 14:09:39] Created download interface of type 'SteamCache' (7) to host cache12-iad1.steamcontent.com (cache12-iad1.steamcontent.com)
+[2026-11-01 14:09:39] HTTP/2 available
+[2026-11-01 14:09:39] Created ipv4-only http client
+[2026-11-01 14:09:40] HTTPS (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.24:443 / 162.254.192.24:443, host: cache8-iad1.steamcontent.com): cache8-iad1.steamcontent.com/depot/412682/manifest/5491988381360398022/5/9284152455353836384 - manifest request received 200 (OK) HTTP response
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,Verifying Installed,
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,Preallocating,
+[2026-11-01 14:09:40] AppID 412680 preallocated 0 files (0 MB) 
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:40] AppID 412680 update started : download 0/1105004592, store 0/0, reuse 0/0, delta 0/0, stage 0/1484271279 
+[2026-11-01 14:09:40] AppID 412680 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-11-01 14:09:40] AppID 412680 App update changed : Running Update,Downloading,Staging,
+[2026-11-01 14:09:40] Downloading 1416 chunks for depot 412682 (5491988381360398022)
+[2026-11-01 14:09:41] Detected write gap 78 MB in file "TheIsle\Binaries\Linux\TheIsleServer-Linux-Shipping"
+[2026-11-01 14:09:43] Detected write gap 120 MB in file "TheIsle\Content\Paks\pakchunk1-LinuxServer.ucas"
+[2026-11-01 14:09:43] Detected write gap 99 MB in file "TheIsle\Content\Paks\pakchunk1-LinuxServer.ucas"
+[2026-11-01 14:09:43] Detected write gap 194 MB in file "TheIsle\Content\Paks\pakchunk2-LinuxServer.ucas"
+[2026-11-01 14:09:52] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:52] AppID 412680 App update changed : Running Update,Verifying Staged,
+[2026-11-01 14:09:53] Verified 1415 MB in '/mnt/server/Steam', clean bytes tally is now 1415 MB
+[2026-11-01 14:09:53] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:09:53] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:53] AppID 412680 App update changed : Running Update,Committing,
+[2026-11-01 14:09:53] AppID 412680 starting commit from "/mnt/server/steamapps/downloading/412680" to "/mnt/server" : 70 updated, 0 moved, 0 deleted files
+[2026-11-01 14:09:53] AppID 412680 state changed : Fully Installed,Update Queued,Update Running,
+[2026-11-01 14:09:53] AppID 412680 finished update, 1 mounted depots (BuildID 24664709) : 412682 (5491988381360398022),
+[2026-11-01 14:09:53] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:09:53] AppID 412680 App update changed : None
+[2026-11-01 14:09:53] AppID 412680 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:09:53] AppID 412680 state changed : Fully Installed,
+[2026-11-01 14:09:53] AppID 412680 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-11-01 14:09:54] HTTPS (SteamCache,174) - cache12-iad1.steamcontent.com (162.254.192.47:443 / 162.254.192.47:443, host: cache12-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,31) - cache1-iad1.steamcontent.com (162.254.192.3:443 / 162.254.192.3:443, host: cache1-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,224) - cache9-iad1.steamcontent.com (162.254.192.7:443 / 162.254.192.7:443, host: cache9-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,223) - cache10-iad1.steamcontent.com (162.254.192.25:443 / 162.254.192.25:443, host: cache10-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,220) - cache7-iad1.steamcontent.com (162.254.192.6:443 / 162.254.192.6:443, host: cache7-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,567) - cache21-iad1.steamcontent.com (162.254.192.44:443 / 162.254.192.44:443, host: cache21-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,568) - cache22-iad1.steamcontent.com (162.254.192.45:443 / 162.254.192.45:443, host: cache22-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,173) - cache11-iad1.steamcontent.com (162.254.192.46:443 / 162.254.192.46:443, host: cache11-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,32) - cache2-iad1.steamcontent.com (162.254.192.21:443 / 162.254.192.21:443, host: cache2-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:09:54] HTTPS (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.24:443 / 162.254.192.24:443, host: cache8-iad1.steamcontent.com): Closing connection
+
+
+[2026-11-01 14:09:58] Client version: 1792617903
+[2026-11-01 14:09:58] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:09:58] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:09:59] AppID 1007 state changed : Update Required,
+[2026-11-01 14:09:59] AppID 1007 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:09:59] AppID 1007 state changed : Update Required,Update Queued,
+[2026-11-01 14:09:59] AppID 1007 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:09:59] AppID 1007 state changed : Update Required,Update Queued,Update Running,
+[2026-11-01 14:09:59] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:09:59] AppID 1007 App update changed : Running Update,Reconfiguring,
+[2026-11-01 14:09:59] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 2 / Launcher 3)
+[2026-11-01 14:09:59] Moving to source priority class '7'
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache8-iad1.steamcontent.com (cache8-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache2-iad1.steamcontent.com (cache2-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache11-iad1.steamcontent.com (cache11-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache22-iad1.steamcontent.com (cache22-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache21-iad1.steamcontent.com (cache21-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache7-iad1.steamcontent.com (cache7-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache10-iad1.steamcontent.com (cache10-iad1.steamcontent.com)
+[2026-11-01 14:09:59] Created download interface of type 'SteamCache' (7) to host cache9-iad1.steamcontent.com (cache9-iad1.steamcontent.com)
+[2026-11-01 14:09:59] HTTP/2 available
+[2026-11-01 14:09:59] Created ipv4-only http client
+[2026-11-01 14:10:00] HTTPS (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.24:443 / 162.254.192.24:443, host: cache8-iad1.steamcontent.com): cache8-iad1.steamcontent.com/depot/1006/manifest/4559160656493359681/5/5508089532682023152 - manifest request received 200 (OK) HTTP response
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,Verifying Installed,
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,Preallocating,
+[2026-11-01 14:10:00] AppID 1007 preallocated 0 files (0 MB) 
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:00] AppID 1007 update started : download 0/36733840, store 0/0, reuse 0/0, delta 0/0, stage 0/111284048 
+[2026-11-01 14:10:00] AppID 1007 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-11-01 14:10:00] AppID 1007 App update changed : Running Update,Downloading,Staging,
+[2026-11-01 14:10:00] Downloading 108 chunks for depot 1006 (4559160656493359681)
+[2026-11-01 14:10:01] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:01] AppID 1007 App update changed : Running Update,Verifying Staged,
+[2026-11-01 14:10:01] Verified 106 MB in '/home/container/Steam', clean bytes tally is now 106 MB
+[2026-11-01 14:10:01] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:10:01] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:01] AppID 1007 App update changed : Running Update,Committing,
+[2026-11-01 14:10:01] AppID 1007 starting commit from "/home/container/steamapps/downloading/1007" to "/home/container" : 4 updated, 0 moved, 0 deleted files
+[2026-11-01 14:10:01] AppID 1007 state changed : Fully Installed,Update Queued,Update Running,
+[2026-11-01 14:10:01] AppID 1007 finished update, 1 mounted depots (BuildID 25329704) : 1006 (4559160656493359681),
+[2026-11-01 14:10:01] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:10:01] AppID 1007 App update changed : None
+[2026-11-01 14:10:01] AppID 1007 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:10:01] AppID 1007 state changed : Fully Installed,
+[2026-11-01 14:10:01] AppID 1007 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-11-01 14:10:03] HTTPS (SteamCache,224) - cache9-iad1.steamcontent.com (162.254.192.7:443 / 162.254.192.7:443, host: cache9-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,223) - cache10-iad1.steamcontent.com (162.254.192.25:443 / 162.254.192.25:443, host: cache10-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,220) - cache7-iad1.steamcontent.com (162.254.192.6:443 / 162.254.192.6:443, host: cache7-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,567) - cache21-iad1.steamcontent.com (162.254.192.44:443 / 162.254.192.44:443, host: cache21-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,568) - cache22-iad1.steamcontent.com (162.254.192.45:443 / 162.254.192.45:443, host: cache22-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,173) - cache11-iad1.steamcontent.com (162.254.192.46:443 / 162.254.192.46:443, host: cache11-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,32) - cache2-iad1.steamcontent.com (162.254.192.21:443 / 162.254.192.21:443, host: cache2-iad1.steamcontent.com): Closing connection
+[2026-11-01 14:10:03] HTTPS (SteamCache,221) - cache8-iad1.steamcontent.com (162.254.192.24:443 / 162.254.192.24:443, host: cache8-iad1.steamcontent.com): Closing connection
+
+
+[2026-11-01 14:14:47] Client version: 1792617903
+[2026-11-01 14:14:47] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:14:47] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-11-01 14:43:42] Client version: 1792617903
+[2026-11-01 14:43:42] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:43:42] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-11-01 14:44:12] Client version: 1792617903
+[2026-11-01 14:44:12] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:44:12] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-11-01 14:45:39] Client version: 1792617903
+[2026-11-01 14:45:39] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:45:39] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-11-01 14:47:18] Client version: 1792617903
+[2026-11-01 14:47:18] Loaded 0 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-11-01 14:47:18] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:47:18] AppID 412680 state changed : Update Required,
+[2026-11-01 14:47:18] AppID 412680 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:47:18] AppID 412680 state changed : Update Required,Update Queued,
+[2026-11-01 14:47:18] AppID 412680 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:47:18] AppID 412680 state changed : Update Required,Update Queued,Update Running,
+[2026-11-01 14:47:18] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:18] AppID 412680 App update changed : Running Update,Reconfiguring,
+[2026-11-01 14:47:18] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:18] AppID 412680 App update changed : Running Update,Verifying Installed,
+[2026-11-01 14:47:20] Validation: full scan in "/mnt/server" found 37/0 matching files (1.48 GB/1.48 GB) in 1 seconds).
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:20] Found 37 pre-existing matching files for depot 412682 (1484271279 bytes)
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,Preallocating,
+[2026-11-01 14:47:20] AppID 412680 preallocated 0 files (0 MB) 
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:20] AppID 412680 update started : download 1105004592/1105004592, store 0/0, reuse 0/0, delta 0/0, stage 1484271279/1484271279 
+[2026-11-01 14:47:20] AppID 412680 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,Staging,
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:20] AppID 412680 App update changed : Running Update,Verifying Staged,
+[2026-11-01 14:47:22] Verified 1415 MB in '/mnt/server/Steam', clean bytes tally is now 1415 MB
+[2026-11-01 14:47:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:47:22] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:22] AppID 412680 App update changed : Running Update,Committing,
+[2026-11-01 14:47:22] AppID 412680 starting commit from "/mnt/server/steamapps/downloading/412680" to "/mnt/server" : 70 updated, 0 moved, 0 deleted files
+[2026-11-01 14:47:22] AppID 412680 state changed : Fully Installed,Update Queued,Update Running,
+[2026-11-01 14:47:22] AppID 412680 finished update, 1 mounted depots (BuildID 24664709) : 412682 (5491988381360398022),
+[2026-11-01 14:47:22] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:22] AppID 412680 App update changed : None
+[2026-11-01 14:47:22] AppID 412680 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:47:22] AppID 412680 state changed : Fully Installed,
+[2026-11-01 14:47:22] AppID 412680 scheduler finished : removed from schedule (result No Error, state 0xc) 
+
+
+[2026-11-01 14:47:25] Client version: 1792617903
+[2026-11-01 14:47:25] Loaded 1 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-11-01 14:47:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:47:26] Start validating appID 412680 on BuildID 24664709
+[2026-11-01 14:47:26] AppID 412680 scheduler update : Priority First, not played for 9 seconds, update disabled for 0 seconds
+[2026-11-01 14:47:26] AppID 412680 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:47:26] AppID 412680 state changed : Fully Installed,Update Queued,Update Running,
+[2026-11-01 14:47:26] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:26] AppID 412680 App update changed : Running Update,Reconfiguring,
+[2026-11-01 14:47:26] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:26] AppID 412680 App update changed : Running Update,Verifying Installed,
+[2026-11-01 14:47:27] AppID 412680 App update changed : Running Update,
+[2026-11-01 14:47:27] AppID 412680 App update changed : None
+[2026-11-01 14:47:27] AppID 412680 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:47:27] AppID 412680 state changed : Fully Installed,
+[2026-11-01 14:47:27] AppID 412680 scheduler finished : removed from schedule (result No Error, state 0xc) 
+
+
+[2026-11-01 14:47:31] Client version: 1792617903
+[2026-11-01 14:47:31] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 14:47:31] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:47:31] AppID 1007 state changed : Update Required,
+[2026-11-01 14:47:31] AppID 1007 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:47:31] AppID 1007 state changed : Update Required,Update Queued,
+[2026-11-01 14:47:31] AppID 1007 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-11-01 14:47:31] AppID 1007 state changed : Update Required,Update Queued,Update Running,
+[2026-11-01 14:47:31] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:31] AppID 1007 App update changed : Running Update,Reconfiguring,
+[2026-11-01 14:47:31] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:31] AppID 1007 App update changed : Running Update,Verifying Installed,
+[2026-11-01 14:47:32] Validation: full scan in "/home/container" found 4/0 matching files (111.28 MB/111.28 MB) in 0 seconds).
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:32] Found 4 pre-existing matching files for depot 1006 (111284048 bytes)
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,Preallocating,
+[2026-11-01 14:47:32] AppID 1007 preallocated 0 files (0 MB) 
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:32] AppID 1007 update started : download 36733840/36733840, store 0/0, reuse 0/0, delta 0/0, stage 111284048/111284048 
+[2026-11-01 14:47:32] AppID 1007 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,Staging,
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,Verifying Staged,
+[2026-11-01 14:47:32] Verified 106 MB in '/home/container/Steam', clean bytes tally is now 106 MB
+[2026-11-01 14:47:32] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,Committing,
+[2026-11-01 14:47:32] AppID 1007 starting commit from "/home/container/steamapps/downloading/1007" to "/home/container" : 4 updated, 0 moved, 0 deleted files
+[2026-11-01 14:47:32] AppID 1007 state changed : Fully Installed,Update Queued,Update Running,
+[2026-11-01 14:47:32] AppID 1007 finished update, 1 mounted depots (BuildID 25329704) : 1006 (4559160656493359681),
+[2026-11-01 14:47:32] AppID 1007 App update changed : Running Update,
+[2026-11-01 14:47:32] AppID 1007 App update changed : None
+[2026-11-01 14:47:32] AppID 1007 state changed : Fully Installed,Update Queued,
+[2026-11-01 14:47:32] AppID 1007 state changed : Fully Installed,
+[2026-11-01 14:47:32] AppID 1007 scheduler finished : removed from schedule (result No Error, state 0xc) 
+
+
+[2026-11-01 15:07:34] Client version: 1792617903
+[2026-11-01 15:07:34] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 15:07:34] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-11-01 15:14:50] Client version: 1792617903
+[2026-11-01 15:14:50] Loaded 2 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-11-01 15:14:50] Triggered async write of Steam library folders configuration (1 libraries).

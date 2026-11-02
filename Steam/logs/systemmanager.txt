@@ -1,0 +1,72 @@
+
+
+[2026-11-01 14:10:04] Client version: no bootstrapper found
+[2026-11-01 14:10:04] Initializing System Manager
+[2026-11-01 14:10:04] Night mode active on resume 0
+[2026-11-01 14:10:04] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:10:04] Error: Init: invalid query mode
+[2026-11-01 14:10:04] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:10:04] Fan control available: 0 current: 0
+
+
+[2026-11-01 14:14:49] Client version: no bootstrapper found
+[2026-11-01 14:14:49] Initializing System Manager
+[2026-11-01 14:14:49] Night mode active on resume 0
+[2026-11-01 14:14:49] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:14:49] Error: Init: invalid query mode
+[2026-11-01 14:14:49] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:14:49] Fan control available: 0 current: 0
+
+
+[2026-11-01 14:43:45] Client version: no bootstrapper found
+[2026-11-01 14:43:45] Initializing System Manager
+[2026-11-01 14:43:45] Night mode active on resume 0
+[2026-11-01 14:43:45] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:43:45] Error: Init: invalid query mode
+[2026-11-01 14:43:45] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:43:45] Fan control available: 0 current: 0
+
+
+[2026-11-01 14:44:14] Client version: no bootstrapper found
+[2026-11-01 14:44:14] Initializing System Manager
+[2026-11-01 14:44:14] Night mode active on resume 0
+[2026-11-01 14:44:14] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:44:14] Error: Init: invalid query mode
+[2026-11-01 14:44:14] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:44:14] Fan control available: 0 current: 0
+
+
+[2026-11-01 14:45:41] Client version: no bootstrapper found
+[2026-11-01 14:45:41] Initializing System Manager
+[2026-11-01 14:45:41] Night mode active on resume 0
+[2026-11-01 14:45:41] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:45:41] Error: Init: invalid query mode
+[2026-11-01 14:45:41] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:45:41] Fan control available: 0 current: 0
+
+
+[2026-11-01 14:47:35] Client version: no bootstrapper found
+[2026-11-01 14:47:35] Initializing System Manager
+[2026-11-01 14:47:35] Night mode active on resume 0
+[2026-11-01 14:47:35] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 14:47:35] Error: Init: invalid query mode
+[2026-11-01 14:47:35] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 14:47:35] Fan control available: 0 current: 0
+
+
+[2026-11-01 15:07:37] Client version: no bootstrapper found
+[2026-11-01 15:07:37] Initializing System Manager
+[2026-11-01 15:07:37] Night mode active on resume 0
+[2026-11-01 15:07:37] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 15:07:37] Error: Init: invalid query mode
+[2026-11-01 15:07:37] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 15:07:37] Fan control available: 0 current: 0
+
+
+[2026-11-01 15:14:52] Client version: no bootstrapper found
+[2026-11-01 15:14:52] Initializing System Manager
+[2026-11-01 15:14:52] Night mode active on resume 0
+[2026-11-01 15:14:52] Error: ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2026-11-01 15:14:52] Error: Init: invalid query mode
+[2026-11-01 15:14:52] Error: CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2026-11-01 15:14:52] Fan control available: 0 current: 0

@@ -1,0 +1,222 @@
+
+
+[2026-11-01 14:09:28] Client version: 1792617903
+[2026-11-01 14:09:28] Loading Steam API...
+[2026-11-01 14:09:28] OK
+[2026-11-01 14:09:28] "@cMaxContentServersToRequest" = "100"
+[2026-11-01 14:09:29] "@cCSClientMaxNumSocketsPerHost" = "64"
+[2026-11-01 14:09:29] "@cMaxInitialDownloadSources" = "100"
+[2026-11-01 14:09:29] "@fDownloadRateImprovementToAddAnotherConnection" = "1.0"
+[2026-11-01 14:09:29] "@fMinDataRateToAttemptTwoConnectionsMbps" = "0.1"
+[2026-11-01 14:09:29] "@nClientDownloadEnableHTTP2PlatformLinux" = "0"
+[2026-11-01 14:09:29] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:09:30] OK
+[2026-11-01 14:09:30] Waiting for client config...
+[2026-11-01 14:09:31] OK
+[2026-11-01 14:09:31] Waiting for user info...
+[2026-11-01 14:09:35] OK
+[2026-11-01 14:09:35] ERROR! Failed to install app '412680' (Missing configuration)
+[2026-11-01 14:09:35] Unloading Steam API...
+
+
+[2026-11-01 14:09:37] Client version: 1792617903
+[2026-11-01 14:09:37] Loading Steam API...
+[2026-11-01 14:09:37] OK
+[2026-11-01 14:09:37] "@cMaxContentServersToRequest" = "100"
+[2026-11-01 14:09:37] "@cCSClientMaxNumSocketsPerHost" = "64"
+[2026-11-01 14:09:37] "@cMaxInitialDownloadSources" = "100"
+[2026-11-01 14:09:37] "@fDownloadRateImprovementToAddAnotherConnection" = "1.0"
+[2026-11-01 14:09:37] "@fMinDataRateToAttemptTwoConnectionsMbps" = "0.1"
+[2026-11-01 14:09:37] "@nClientDownloadEnableHTTP2PlatformLinux" = "0"
+[2026-11-01 14:09:37] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:09:37] OK
+[2026-11-01 14:09:37] Waiting for client config...
+[2026-11-01 14:09:38] OK
+[2026-11-01 14:09:38] Waiting for user info...
+[2026-11-01 14:09:38] OK
+[2026-11-01 14:09:40]  Update state (0x61) downloading, progress: 0.00 (0 / 1484271279)
+[2026-11-01 14:09:42]  Update state (0x61) downloading, progress: 31.05 (460920163 / 1484271279)
+[2026-11-01 14:09:44]  Update state (0x61) downloading, progress: 60.74 (901620520 / 1484271279)
+[2026-11-01 14:09:46]  Update state (0x61) downloading, progress: 60.74 (901620520 / 1484271279)
+[2026-11-01 14:09:48]  Update state (0x61) downloading, progress: 91.09 (1351959115 / 1484271279)
+[2026-11-01 14:09:50]  Update state (0x61) downloading, progress: 91.09 (1351959115 / 1484271279)
+[2026-11-01 14:09:52]  Update state (0x81) verifying update, progress: 57.81 (858074711 / 1484271279)
+[2026-11-01 14:09:54]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-11-01 14:09:54] Success! App '412680' fully installed.
+[2026-11-01 14:09:54] Unloading Steam API...
+[2026-11-01 14:09:54] OK
+
+
+[2026-11-01 14:09:57] Client version: 1792617903
+[2026-11-01 14:09:57] Loading Steam API...
+[2026-11-01 14:09:57] OK
+[2026-11-01 14:09:57] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:09:58] OK
+[2026-11-01 14:09:58] Waiting for client config...
+[2026-11-01 14:09:58] OK
+[2026-11-01 14:09:58] Waiting for user info...
+[2026-11-01 14:09:58] OK
+[2026-11-01 14:10:01]  Update state (0x61) downloading, progress: 25.54 (28426232 / 111284048)
+[2026-11-01 14:10:03]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-11-01 14:10:03] Success! App '1007' fully installed.
+[2026-11-01 14:10:03] Success! App '412680' already up to date.
+[2026-11-01 14:10:03] Unloading Steam API...
+
+
+[2026-11-01 14:14:46] Client version: 1792617903
+[2026-11-01 14:14:46] Loading Steam API...
+[2026-11-01 14:14:46] OK
+[2026-11-01 14:14:46] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:14:47] OK
+[2026-11-01 14:14:47] Waiting for client config...
+[2026-11-01 14:14:48] OK
+[2026-11-01 14:14:48] Waiting for user info...
+[2026-11-01 14:14:48] OK
+[2026-11-01 14:14:48] Success! App '1007' already up to date.
+[2026-11-01 14:14:48] Success! App '412680' already up to date.
+[2026-11-01 14:14:48] Unloading Steam API...
+[2026-11-01 14:14:48] OK
+
+
+[2026-11-01 14:43:41] Client version: 1792617903
+[2026-11-01 14:43:41] Loading Steam API...
+[2026-11-01 14:43:41] OK
+[2026-11-01 14:43:41] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:43:42] OK
+[2026-11-01 14:43:42] Waiting for client config...
+[2026-11-01 14:43:43] OK
+[2026-11-01 14:43:43] Waiting for user info...
+[2026-11-01 14:43:43] OK
+[2026-11-01 14:43:43] Success! App '1007' already up to date.
+[2026-11-01 14:43:44] Success! App '412680' already up to date.
+[2026-11-01 14:43:44] Unloading Steam API...
+[2026-11-01 14:43:44] OK
+
+
+[2026-11-01 14:44:11] Client version: 1792617903
+[2026-11-01 14:44:11] Loading Steam API...
+[2026-11-01 14:44:11] OK
+[2026-11-01 14:44:11] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:44:12] OK
+[2026-11-01 14:44:12] Waiting for client config...
+[2026-11-01 14:44:13] OK
+[2026-11-01 14:44:13] Waiting for user info...
+[2026-11-01 14:44:13] OK
+[2026-11-01 14:44:13] Success! App '1007' already up to date.
+[2026-11-01 14:44:13] Success! App '412680' already up to date.
+[2026-11-01 14:44:13] Unloading Steam API...
+[2026-11-01 14:44:13] OK
+
+
+[2026-11-01 14:45:38] Client version: 1792617903
+[2026-11-01 14:45:38] Loading Steam API...
+[2026-11-01 14:45:38] OK
+[2026-11-01 14:45:38] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:45:39] OK
+[2026-11-01 14:45:39] Waiting for client config...
+[2026-11-01 14:45:39] OK
+[2026-11-01 14:45:39] Waiting for user info...
+[2026-11-01 14:45:39] OK
+[2026-11-01 14:45:39] Success! App '1007' already up to date.
+[2026-11-01 14:45:40] Success! App '412680' already up to date.
+[2026-11-01 14:45:40] Unloading Steam API...
+[2026-11-01 14:45:40] OK
+
+
+[2026-11-01 14:47:16] Client version: 1792617903
+[2026-11-01 14:47:16] Loading Steam API...
+[2026-11-01 14:47:16] OK
+[2026-11-01 14:47:17] "@cMaxContentServersToRequest" = "100"
+[2026-11-01 14:47:17] "@cCSClientMaxNumSocketsPerHost" = "64"
+[2026-11-01 14:47:17] "@cMaxInitialDownloadSources" = "100"
+[2026-11-01 14:47:17] "@fDownloadRateImprovementToAddAnotherConnection" = "1.0"
+[2026-11-01 14:47:17] "@fMinDataRateToAttemptTwoConnectionsMbps" = "0.1"
+[2026-11-01 14:47:17] "@nClientDownloadEnableHTTP2PlatformLinux" = "0"
+[2026-11-01 14:47:17] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:47:18] OK
+[2026-11-01 14:47:18] Waiting for client config...
+[2026-11-01 14:47:18] OK
+[2026-11-01 14:47:18] Waiting for user info...
+[2026-11-01 14:47:18] OK
+[2026-11-01 14:47:20]  Update state (0x81) verifying update, progress: 24.41 (362343070 / 1484271279)
+[2026-11-01 14:47:22]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-11-01 14:47:22] Success! App '412680' fully installed.
+[2026-11-01 14:47:22] Unloading Steam API...
+[2026-11-01 14:47:22] OK
+
+
+[2026-11-01 14:47:24] Client version: 1792617903
+[2026-11-01 14:47:24] Loading Steam API...
+[2026-11-01 14:47:24] OK
+[2026-11-01 14:47:24] "@cMaxContentServersToRequest" = "100"
+[2026-11-01 14:47:24] "@cCSClientMaxNumSocketsPerHost" = "64"
+[2026-11-01 14:47:24] "@cMaxInitialDownloadSources" = "100"
+[2026-11-01 14:47:24] "@fDownloadRateImprovementToAddAnotherConnection" = "1.0"
+[2026-11-01 14:47:24] "@fMinDataRateToAttemptTwoConnectionsMbps" = "0.1"
+[2026-11-01 14:47:24] "@nClientDownloadEnableHTTP2PlatformLinux" = "0"
+[2026-11-01 14:47:24] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:47:25] OK
+[2026-11-01 14:47:25] Waiting for client config...
+[2026-11-01 14:47:25] OK
+[2026-11-01 14:47:25] Waiting for user info...
+[2026-11-01 14:47:25] OK
+[2026-11-01 14:47:28]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-11-01 14:47:28] Success! App '412680' fully installed.
+[2026-11-01 14:47:28] Unloading Steam API...
+
+
+[2026-11-01 14:47:30] Client version: 1792617903
+[2026-11-01 14:47:30] Loading Steam API...
+[2026-11-01 14:47:30] OK
+[2026-11-01 14:47:30] 
+Connecting anonymously to Steam Public...
+[2026-11-01 14:47:31] OK
+[2026-11-01 14:47:31] Waiting for client config...
+[2026-11-01 14:47:31] OK
+[2026-11-01 14:47:31] Waiting for user info...
+[2026-11-01 14:47:31] OK
+[2026-11-01 14:47:33]  Update state (0x0) unknown, progress: 0.00 (0 / 0)
+[2026-11-01 14:47:33] Success! App '1007' fully installed.
+[2026-11-01 14:47:34] Success! App '412680' already up to date.
+[2026-11-01 14:47:34] Unloading Steam API...
+
+
+[2026-11-01 15:07:33] Client version: 1792617903
+[2026-11-01 15:07:33] Loading Steam API...
+[2026-11-01 15:07:33] OK
+[2026-11-01 15:07:33] 
+Connecting anonymously to Steam Public...
+[2026-11-01 15:07:34] OK
+[2026-11-01 15:07:34] Waiting for client config...
+[2026-11-01 15:07:35] OK
+[2026-11-01 15:07:35] Waiting for user info...
+[2026-11-01 15:07:35] OK
+[2026-11-01 15:07:35] Success! App '1007' already up to date.
+[2026-11-01 15:07:35] Success! App '412680' already up to date.
+[2026-11-01 15:07:36] Unloading Steam API...
+[2026-11-01 15:07:36] OK
+
+
+[2026-11-01 15:14:48] Client version: 1792617903
+[2026-11-01 15:14:48] Loading Steam API...
+[2026-11-01 15:14:48] OK
+[2026-11-01 15:14:49] 
+Connecting anonymously to Steam Public...
+[2026-11-01 15:14:50] OK
+[2026-11-01 15:14:50] Waiting for client config...
+[2026-11-01 15:14:50] OK
+[2026-11-01 15:14:50] Waiting for user info...
+[2026-11-01 15:14:50] OK
+[2026-11-01 15:14:51] Success! App '1007' already up to date.
+[2026-11-01 15:14:51] Success! App '412680' already up to date.
+[2026-11-01 15:14:51] Unloading Steam API...
+[2026-11-01 15:14:51] OK

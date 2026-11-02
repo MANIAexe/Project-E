@@ -1,0 +1,41 @@
+"AppState"
+{
+	"appid"		"412680"
+	"Universe"		"1"
+	"name"		"The Isle Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"The Isle Dedicated Server"
+	"LastUpdated"		"1793544442"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"1484271279"
+	"StagingSize"		"0"
+	"buildid"		"24664709"
+	"LastOwner"		"0"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"24664709"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"FullValidateAfterNextUpdate"		"1"
+	"InstalledDepots"
+	{
+		"412682"
+		{
+			"manifest"		"5491988381360398022"
+			"size"		"1484271279"
+		}
+	}
+	"UserConfig"
+	{
+		"BetaKey"		"evrima"
+	}
+	"MountedConfig"
+	{
+		"BetaKey"		"evrima"
+	}
+}
